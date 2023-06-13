@@ -23,7 +23,7 @@ header {
 position: fixed;
 top: 0;
 left: 0;
-width: 98%;
+width: 96%;
 background: transparent;
 border: 0px solid #000000;
 backdrop-filter: blur(20px);
@@ -112,7 +112,7 @@ z-index: 99;
     transform: translateY(-7px) rotate(-45deg);
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1366px) {
 
     .nav {
         position:fixed;
