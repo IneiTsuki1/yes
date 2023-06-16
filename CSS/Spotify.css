@@ -1,0 +1,17 @@
+.Spotify {
+    position: fixed;
+    width: 30%;
+    top: 610px;
+    left: 10px;
+}
+
+@media (max-width: 1366px) {
+
+    .Spotify {
+        position: fixed;
+        width: 25%;
+        top: 610px;
+        left: 10px;
+    }
+
+}
